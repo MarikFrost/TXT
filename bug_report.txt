@@ -1,1 +1,12 @@
-
+Login - Error messages in the login from are displayed in English
+Environment - All browsers/devices
+Severity - Major
+Steps to reproduce:
+- Open front end https://www.test-obelink.be:8443/
+- Follow 'Inloggen' link
+- Fill required fields with invalid data
+- Click 'Inloggen' button
+- Pay attention to error messages
+Actual result - Error messages in the login form are displayed in English
+Expected result - Error messages in the login form are displayed in the chosen language
+Attachment - https://.....
